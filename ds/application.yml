@@ -1,0 +1,3 @@
+integration:
+    service:
+        name: DS Profile
