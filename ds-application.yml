@@ -1,3 +1,4 @@
 module:
     service:
         environment: DS Profile
+        environment1: DS Profile1
