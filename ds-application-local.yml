@@ -1,0 +1,3 @@
+module:
+    service:
+        environment: DS-Local
