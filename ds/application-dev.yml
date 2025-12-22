@@ -1,3 +1,1 @@
-module:
-    service:
-        environment: DS-Development
+ENV_NAME=DS DEV BRANCH
