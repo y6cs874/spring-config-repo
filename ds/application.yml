@@ -1,3 +1,3 @@
 module:
     service:
-        environment: DS Profile
+        environment: ${ENV_NAME}
